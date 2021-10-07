@@ -6,4 +6,3 @@ let b:did_prose = 1
 setlocal spell spelllang=en_us
 Goyo 66
 SoftPencil
-echo "Hello prose"
